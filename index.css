@@ -1,0 +1,103 @@
+/* #parent {
+    width: 500px;
+    height: 500px;
+    border: 1px solid #000;
+}
+
+#child {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+}
+
+#trigger {
+    height: 30px;
+    background-color: darkblue;
+} */
+
+
+/* .drop {
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+    border: 3px solid rgb(30, 115, 172);
+    background-color: lightseagreen
+}
+
+.drag {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: lightgreen;
+    position: absolute;
+    top: 300px;
+    left: 700px;
+}
+
+
+.active{
+    background-color: rgb(166, 255, 1);
+    
+}
+.hover {
+    background-color: green;
+} */
+
+
+
+
+
+
+/* 
+ul {
+    border: 1px solid #000;
+    width: 300px;
+    padding: 10px;
+    margin: 20px;
+    float: left;
+}
+
+li {
+    list-style-type: none;
+    height: 30px;
+    background-color:lightgray;
+    margin: 10px 0;
+} */
+
+
+
+.box1 {
+    width: 126px;
+    height: 126px;
+    border: 1px solid #000;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.box { 
+    border: 1px solid #000;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    margin: 120px 10 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box2 {
+    width: 126px;
+    height: 126px;
+    border: 1px solid #000;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin: 300px 300px;
+}
